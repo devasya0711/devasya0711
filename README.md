@@ -5,7 +5,6 @@ I am a **B.Tech Data Science and Artificial Intelligence** undergraduate at IIIT
 ### 🔬 Technical Focus
 * **Machine Learning & Data Science:** Building predictive models, analyzing structured datasets, and applying algorithms like Logistic Regression, Random Forest, and Gradient Boosting to solve complex real-world problems.
 * **Full-Stack Architecture & APIs:** Engineering microservice architectures and dynamic web applications using React.js, FastAPI, Node.js, and MongoDB.
-* **Intersection of Tech & Finance:** Exploring algorithmic applications within financial modeling and data analytics as an active member of the Money Matters Club.
 
 ### 💻 Tech Stack
 * **Languages:** Python, C/C++, JavaScript, SQL
